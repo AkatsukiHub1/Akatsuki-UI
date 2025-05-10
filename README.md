@@ -32,7 +32,7 @@ local redzlib = {
 			["Color Stroke"] = Color3.fromRGB(255, 0, 0),
 			["Color Theme"] = Color3.fromRGB(255, 0, 0),
 			["Color Text"] = Color3.fromRGB(255, 255, 255),
-			["Color Dark Text"] = Color3.fromRGB(200, 0, 0)
+			["Color Dark Text"] = Color3.fromRGB(255, 80, 80)
 		},
 		},
 		Purple = {

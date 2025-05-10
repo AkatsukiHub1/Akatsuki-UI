@@ -34,7 +34,6 @@ local redzlib = {
 			["Color Text"] = Color3.fromRGB(255, 255, 255),
 			["Color Dark Text"] = Color3.fromRGB(255, 80, 80)
 		},
-		},
 		Purple = {
 			["Color Hub 1"] = ColorSequence.new({
 				ColorSequenceKeypoint.new(0.00, Color3.fromRGB(27.5, 25, 30)),
